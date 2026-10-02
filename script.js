@@ -596,7 +596,7 @@ if(line.text == "She was standing outside the academy."){
 
         bunny.src = "assets/evil-bunny.png";
 
-        bunny.style.width = "110px";
+        bunny.style.width = "150px";
 
         bunny.style.display = "block";
     }
